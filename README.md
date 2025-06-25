@@ -8,6 +8,6 @@ A React-based maze solver application that generates mazes and finds paths throu
 
 ## Demo Video
 
-https://github.com/wise-toddler/maze-solver/assets/demo.mov
+https://github.com/wise-toddler/maze-solver/raw/main/assets/demo.mov
 
 *Watch the maze solver in action! The video demonstrates maze generation and pathfinding algorithms.*
